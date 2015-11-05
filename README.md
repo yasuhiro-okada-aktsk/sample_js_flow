@@ -1,2 +1,3 @@
 # sample_js_flow
-Sample: JS Flow
+Sample: JS [Flow](http://flowtype.org/)
+
